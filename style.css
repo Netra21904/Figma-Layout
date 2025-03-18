@@ -48,6 +48,11 @@ nav {
     color: #373737;
 }
 
+.nav-right img {
+    height: 20px;
+    width: 20px;
+}
+
 .quote-btn {
     background: #184655;
     color: white;
