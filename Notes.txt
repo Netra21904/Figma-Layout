@@ -8,3 +8,11 @@ A featured post section
 A grid of three blog posts
 An app download section at the bottom
 
+The layout is fixed-width and non-responsive. The styling matches the design shown in the image, including:
+
+Color scheme with blues and gradients
+Card-based layout
+Typography hierarchy
+Spacing and padding
+Button styles
+Image placement and sizing
