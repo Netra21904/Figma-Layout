@@ -1,0 +1,10 @@
+https://www.figma.com/design/VNM8j8E3LuuujKP7IP18GR/F1-Contest-2?node-id=91-2&t=OflejJioxjgCwtdi-0
+
+I've created a complete implementation of the layout shown in the image using vanilla HTML and CSS. The layout includes:
+
+A header with logo and navigation
+A hero section with search functionality and tags
+A featured post section
+A grid of three blog posts
+An app download section at the bottom
+
